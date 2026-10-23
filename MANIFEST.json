@@ -1,0 +1,66 @@
+{
+ "targets": {
+  "model.safetensors.index.json": {
+   "sha256": "871fdd1393bc783da69f760386b0747c9d73c57c5bf5e9134b461dfdb92922fc",
+   "bytes": 75719
+  },
+  "config.json": {
+   "sha256": "ddc63e1c717afa86c865bb5e01313d89d72bb53b97ad4a8a03ba8510c0621670",
+   "bytes": 3161
+  },
+  "model-language-0001-save_rank0.safetensors": {
+   "sha256": "ea71a535feda64b433d048d8d773637d9b1e5f317b832af531c70221159770ac",
+   "bytes": 4259095264,
+   "parts": [
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-00",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-01",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-02",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-03",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-04",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-05",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-06",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-07",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-08",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-09",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-10",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-11",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-12",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-13",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-14",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-15",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-16",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-17",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-18",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-19",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-20",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-21",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-22",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-23",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-24",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-25",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-26",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-27",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-28",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-29",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-30",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-31",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-32",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-33",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-34",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-35",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-36",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-37",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-38",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-39",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-40",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-41",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-42",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-43",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-44",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-45",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-46",
+    "chunks/lang1/model-language-0001-save_rank0.safetensors.part-47"
+   ]
+  }
+ }
+}
